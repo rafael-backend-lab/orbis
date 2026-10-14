@@ -18,6 +18,8 @@ window.ORBIS_CONFIG = {
   CONTACT_EMAIL: "",           // suporte exibido no rodapé e no FAQ (opcional)
 
   /* ── IMAGENS ───────────────────────────────────────────────────
+   * Linhas "// PENDENTE" = imagens ainda não enviadas. Ao adicionar o
+   * arquivo em assets/img/, remova o "// PENDENTE: " da linha.
    * Arquivos em assets/img/. Na galeria do produto e na galeria
    * "Por dentro", itens cujo arquivo ainda não existe são ocultados
    * automaticamente — basta adicionar o arquivo para aparecer.
@@ -31,10 +33,10 @@ window.ORBIS_CONFIG = {
     { src: "assets/img/capa-alternativa-1.webp",  alt: "Capa alternativa do ORBIS" },
     { src: "assets/img/capa-alternativa-2.webp",  alt: "Capa alternativa do ORBIS" },
     { src: "assets/img/capa-alternativa-3.webp",  alt: "Capa alternativa do ORBIS" },
-    { src: "assets/img/interno-navegacao.webp",   alt: "Página de navegação com abas e hiperlinks" },
-    { src: "assets/img/interno-agenda.webp",      alt: "Páginas de compromissos e projetos" },
-    { src: "assets/img/interno-metas.webp",       alt: "Páginas de planejamento de metas" },
-    { src: "assets/img/adesivos-amostra.webp",    alt: "Amostra dos adesivos digitais" }
+    // PENDENTE: { src: "assets/img/interno-navegacao.webp",   alt: "Página de navegação com abas e hiperlinks" },
+    // PENDENTE: { src: "assets/img/interno-agenda.webp",      alt: "Páginas de compromissos e projetos" },
+    // PENDENTE: { src: "assets/img/interno-metas.webp",       alt: "Páginas de planejamento de metas" },
+    // PENDENTE: { src: "assets/img/adesivos-amostra.webp",    alt: "Amostra dos adesivos digitais" }
   ],
 
   /* Imagens das seções */
@@ -42,10 +44,10 @@ window.ORBIS_CONFIG = {
     descricao:  { src: "assets/img/mockup-tablet.webp",      alt: "ORBIS em uso em um tablet" },
     ambiente1:  { src: "assets/img/ambiente-visor.webp",     alt: "" },
     ambiente2:  { src: "assets/img/ambiente-cidade.webp",    alt: "" },
-    pdfs:       { src: "assets/img/versoes-pdf.webp",        alt: "As três versões do planner ORBIS" },
+    pdfs: null,  // PENDENTE: pdfs:       { src: "assets/img/versoes-pdf.webp",        alt: "As três versões do planner ORBIS" },
     capas:      { src: "assets/img/capas-alternativas.webp", alt: "Capas alternativas do ORBIS" },
-    adesivos:   { src: "assets/img/adesivos-amostra.webp",   alt: "Amostra dos adesivos digitais em PNG" },
-    manual:     { src: "assets/img/manual.webp",             alt: "Manual de utilização do ORBIS" },
+    adesivos: null,  // PENDENTE: adesivos:   { src: "assets/img/adesivos-amostra.webp",   alt: "Amostra dos adesivos digitais em PNG" },
+    manual: null,  // PENDENTE: manual:     { src: "assets/img/manual.webp",             alt: "Manual de utilização do ORBIS" },
     oferta:     { src: "assets/img/capa-oficial.webp",       alt: "Capa oficial do ORBIS" }
   },
 
@@ -56,9 +58,9 @@ window.ORBIS_CONFIG = {
     { src: "assets/img/capa-alternativa-1.webp", alt: "Capa alternativa",            label: "Capa alternativa" },
     { src: "assets/img/capa-alternativa-2.webp", alt: "Capa alternativa",            label: "Capa alternativa" },
     { src: "assets/img/capa-alternativa-3.webp", alt: "Capa alternativa",            label: "Capa alternativa" },
-    { src: "assets/img/interno-navegacao.webp",  alt: "Navegação por abas",          label: "Navegação" },
-    { src: "assets/img/interno-agenda.webp",     alt: "Compromissos e projetos",     label: "Agenda" },
-    { src: "assets/img/interno-metas.webp",      alt: "Planejamento de metas",       label: "Metas" },
-    { src: "assets/img/adesivos-amostra.webp",   alt: "Adesivos digitais",           label: "Adesivos" }
+    // PENDENTE: { src: "assets/img/interno-navegacao.webp",  alt: "Navegação por abas",          label: "Navegação" },
+    // PENDENTE: { src: "assets/img/interno-agenda.webp",     alt: "Compromissos e projetos",     label: "Agenda" },
+    // PENDENTE: { src: "assets/img/interno-metas.webp",      alt: "Planejamento de metas",       label: "Metas" },
+    // PENDENTE: { src: "assets/img/adesivos-amostra.webp",   alt: "Adesivos digitais",           label: "Adesivos" }
   ]
 };
