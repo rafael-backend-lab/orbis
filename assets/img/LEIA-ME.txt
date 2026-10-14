@@ -1,0 +1,18 @@
+Coloque aqui SOMENTE imagens de demonstração (WebP, idealmente até 300 KB cada).
+Nomes esperados (definidos em js/config.js — podem ser alterados lá):
+
+  capa-oficial.webp         capa principal (fundo neutro, quadrada ou 3:4)
+  mockup-tablet.webp        ORBIS aberto em um tablet (4:3)
+  interno-navegacao.webp    página com abas/hiperlinks
+  interno-agenda.webp       páginas de compromissos/projetos
+  interno-metas.webp        páginas de metas
+  capa-alternativa-1.webp   capa alternativa
+  capa-alternativa-2.webp   capa alternativa
+  capas-alternativas.webp   composição com as capas (4:3)
+  versoes-pdf.webp          composição das 3 versões (4:3)
+  adesivos-amostra.webp     AMOSTRA parcial dos adesivos (4:3)
+  manual.webp               capa/página do manual (4:3)
+  og-orbis.jpg              1200x630, para compartilhamento
+
+Tamanho sugerido: 1600 px no lado maior.
+Nunca coloque PDFs, ZIPs ou o conjunto completo de adesivos aqui.

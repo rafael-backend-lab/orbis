@@ -1,0 +1,12 @@
+# NUNCA versionar o pacote comercial — ele é entregue pela Kiwify
+*.pdf
+*.zip
+*.rar
+*.7z
+produto/
+pacote/
+entrega/
+adesivos/
+# Sistema
+.DS_Store
+Thumbs.db
